@@ -41,14 +41,9 @@ while True:
 
 ```
 ## OUPUT:
-CILENT :
-
-![image](https://github.com/ANU23000217/2b_SLIDING_WINDOW_PROTOCOL/assets/139117108/fa23cf07-3333-47b9-9cc3-e1faae29c4b6)
+![Screenshot 2024-04-16 192558](https://github.com/ANU23000217/2b_SLIDING_WINDOW_PROTOCOL/assets/139117108/64905c01-d939-49db-a5ee-734d40e93016)
 
 
-SERVER:
-
-![image](https://github.com/ANU23000217/2b_SLIDING_WINDOW_PROTOCOL/assets/139117108/70269bd9-9d6e-408a-83b3-5271abbd9357)
 
 
 ## RESULT
